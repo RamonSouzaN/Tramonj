@@ -13,7 +13,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Rejane
+ * @author Ramon
  */
 @Entity
 public class TernoM implements Serializable{

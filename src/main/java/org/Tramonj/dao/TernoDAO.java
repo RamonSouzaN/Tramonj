@@ -14,7 +14,7 @@ import org.Tramonj.model.TernoM;
 
 /**
  *
- * @author Rejane
+ * @author Ramon
  */
 public class TernoDAO {
     

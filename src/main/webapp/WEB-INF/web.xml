@@ -14,7 +14,7 @@
         </session-timeout>
     </session-config>
     <welcome-file-list> 
-        <welcome-file>cadastroP.jsf</welcome-file>
+        <welcome-file>ListarTerno.jsf</welcome-file>
     </welcome-file-list>
         
 </web-app>

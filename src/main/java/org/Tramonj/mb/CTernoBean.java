@@ -14,7 +14,7 @@ import org.Tramonj.model.TernoM;
 
 /**
  *
- * @author Rejane
+ * @author Ramon
  */
 @Named(value = "cadastrarTerno")
 @RequestScoped

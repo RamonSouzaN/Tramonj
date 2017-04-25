@@ -14,7 +14,7 @@ import java.util.List;
 import org.Tramonj.model.TernoM;
 /**
  *
- * @author Rejane
+ * @author Ramon
  */
 @Named(value = "ListarTernoBean")
 @RequestScoped
